@@ -1,5 +1,3 @@
-// Kanchi Mohan Krishna - 20CS10030
-// Gangaram Arvind Sudewad - 20CS30017
 
 // Compile by giving port number as command line argument 
 
